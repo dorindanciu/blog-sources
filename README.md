@@ -1,5 +1,5 @@
 # blog
-Single source of truth for http://dorindanciu.com
+Single source of truth for https://blog.dorindanciu.com
 
 
 ### Table of contents
